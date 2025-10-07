@@ -1,3 +1,8 @@
+# ==================================
+# Sebastian Jimenez Bauer 
+# A01708830
+# ==================================
+
 import random
 
 def cargar_patrones(lista_archivos):
